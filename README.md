@@ -21,7 +21,7 @@ python -m SimpleHTTPServer --port  8081
 
 visit http://localhost:8081 in your browser.
 
-## If you have nodejs installed
+## If you have nodejs   installed
 ```
 npm install
 ```
